@@ -10,5 +10,6 @@
         <p>wake up by 6 AM</p>
         <p>daily breakfast</p>
         <p>daily morning 2 eggs</p>
+        <p>bread with hersheys chocolate</p>
     </div>
 </template>
