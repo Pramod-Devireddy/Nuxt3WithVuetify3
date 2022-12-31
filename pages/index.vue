@@ -12,5 +12,6 @@
         <p>daily morning 2 eggs</p>
         <p>bread with hersheys chocolate</p>
         <p>moisturize - skin & hair</p>
+        <p>drink lots of water</p>
     </div>
 </template>
