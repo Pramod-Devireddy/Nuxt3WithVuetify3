@@ -6,6 +6,7 @@
         <p>responsive table</p>
         <p>read books</p>
         <p>no gym</p>
-        <p>daily skips</p>
+        <p>daily skips min 200</p>
+
     </div>
 </template>
