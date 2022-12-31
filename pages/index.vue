@@ -15,5 +15,6 @@
         <p>drink lots of water - morning 1 litre and evening 1 litre</p>
         <p>write journal</p>
         <p>read book - paulo coelho</p>
+        <p>daily follow timings</p>
     </div>
 </template>
