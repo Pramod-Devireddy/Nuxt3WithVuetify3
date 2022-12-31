@@ -13,5 +13,6 @@
         <p>bread with hersheys chocolate</p>
         <p>moisturize - skin & hair</p>
         <p>drink lots of water - morning 1 litre and evening 1 litre</p>
+        <p>write journal</p>
     </div>
 </template>
