@@ -9,7 +9,7 @@
         <p>daily skips min 200</p>
         <p>wake up by 6 AM</p>
         <p>daily breakfast</p>
-        <p>daily morning 2 eggs & night 2 eggs</p>
+        <p>daily morning 2 eggs & night 2 eggs during dinner</p>
         <p>bread with hersheys chocolate</p>
         <p>moisturize - skin & hair</p>
         <p>drink lots of water - morning 1 litre</p>
