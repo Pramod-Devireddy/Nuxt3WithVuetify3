@@ -5,5 +5,6 @@
         <p>adjustable table i.e. resize columns</p>
         <p>responsive table</p>
         <p>read books</p>
+        <p>no gym</p>
     </div>
 </template>
