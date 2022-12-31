@@ -12,6 +12,6 @@
         <p>daily morning 2 eggs & night 2 eggs during dinner</p>
         <p>bread with hersheys chocolate</p>
         <p>moisturize - skin & hair</p>
-        <p>drink lots of water - morning 1 litre</p>
+        <p>drink lots of water - morning 1 litre and evening 1 litre</p>
     </div>
 </template>
