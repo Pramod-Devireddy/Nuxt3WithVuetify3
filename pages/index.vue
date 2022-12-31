@@ -11,5 +11,6 @@
         <p>daily breakfast</p>
         <p>daily morning 2 eggs</p>
         <p>bread with hersheys chocolate</p>
+        <p>moisturize</p>
     </div>
 </template>
