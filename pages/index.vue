@@ -17,5 +17,6 @@
         <p>read book - paulo coelho</p>
         <p>daily follow timings</p>
         <p>reach by 8:30 AM</p>
+        <p>leave by 5:00 AM</p>
     </div>
 </template>
