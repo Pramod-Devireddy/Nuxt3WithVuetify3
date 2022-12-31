@@ -16,5 +16,6 @@
         <p>write journal</p>
         <p>read book - paulo coelho</p>
         <p>daily follow timings</p>
+        <p>reach by 8:30 AM</p>
     </div>
 </template>
