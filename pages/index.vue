@@ -8,5 +8,6 @@
         <p>no gym</p>
         <p>daily skips min 200</p>
         <p>wake up by 6 AM</p>
+        <p>daily breakfast</p>
     </div>
 </template>
