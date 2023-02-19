@@ -86,4 +86,8 @@ Locally preview production build:
 yarn preview
 ```
 
+## Install Pinia
+
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
